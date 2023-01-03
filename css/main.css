@@ -5089,7 +5089,7 @@ Created using IcoMoon - icomoon.io
   transition: opacity 0.35s, transform 0.35s; }
 
 .gallery figure.cc-effect:hover img {
-  opacity: 1;
+  opacity: 0.4;
   transform: translate3d(0, 0, 0); }
 
 .gallery figure.cc-effect:hover figcaption::before,
